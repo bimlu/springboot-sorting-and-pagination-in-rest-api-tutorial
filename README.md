@@ -1,4 +1,4 @@
-# springboot-sorting-and-pagination-in-rest-api-tutorial
+# Pagination & Sorting in Spring Boot REST API
 
 ### Video Tutorial 
 > https://www.youtube.com/watch?v=B-IHz3oVUG8&ab_channel=KrisFoster
